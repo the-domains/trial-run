@@ -1,0 +1,14 @@
+layout_spectrum: 0.13230536738410592
+typography_spectrum: 0.46406448748894036
+color:
+  brandStrength: 0.8631884802598506
+  lightness: 0.16279545123688877
+  saturation: 0.17461073747836053
+  rhythmicContrast: 0.19679803703911602
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Trial Run
